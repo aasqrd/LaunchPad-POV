@@ -1,0 +1,1 @@
+"./xtal_2_gpio.obj" "./spi.obj" "./shift_register.obj" "./main.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
